@@ -18,3 +18,7 @@ Possible game scenarios:
   3. With every correct identification, points are scored and pokemon in the picture remains highlighted until level is complete
   4. Random picture with random pokemon every single time
   5. Moving alphabets on the screen, choose some and disregard the unused ones that serve as a distraction
+2. Check pokemon-grid-game.png for another interesting game project
+  1.Leaderboard style game
+  2. 3 rows: L | C | R. L and R have pokemon. C has trainer name
+  3. Once you click on one of C (trainer), you have to guess which pokemons these trainers use, shown in columns L and R.
