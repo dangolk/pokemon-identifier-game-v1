@@ -22,3 +22,5 @@ Possible game scenarios:
   1.Leaderboard style game
   2. 3 rows: L | C | R. L and R have pokemon. C has trainer name
   3. Once you click on one of C (trainer), you have to guess which pokemons these trainers use, shown in columns L and R.
+![Image description](link-to-image)
+
