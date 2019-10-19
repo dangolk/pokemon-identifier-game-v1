@@ -1,7 +1,12 @@
 # pokemon-alphabet-identifier
 Random alphabets on screen - match with respective pokemon names by only looking at first word
 
-Hosted at https:://therefactor.net
+Hosted at https://therefactor.net
+
+http://therefactor.net - automatic!
+[GitHub](http://github.com/dangolk/pokemon-identifier-game-v1)
+1
+
 
 Inspired by Wes Bos' Drumkit project
 
