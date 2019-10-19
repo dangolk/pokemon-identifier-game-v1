@@ -4,9 +4,12 @@ Random alphabets on screen - match with respective pokemon names by only looking
 Hosted at https://therefactor.net
 
 http://therefactor.net - automatic!
-![https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg](https://github.com/tograh/testrepository/3DTest.png)
+http://therefactor.net/images/elite.jpg
+![https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg]
+http://therefactor.net/images/elite.jpg
+(http://therefactor.net/images/elite.jpg)
 https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg
-[GitHub](http://github.com/dangolk/pokemon-identifier-game-v1)
+[GitHub](http://therefactor.net/images/elite.jpg)
 1
 
 
@@ -29,5 +32,5 @@ Possible game scenarios:
   1.Leaderboard style game
   2. 3 rows: L | C | R. L and R have pokemon. C has trainer name
   3. Once you click on one of C (trainer), you have to guess which pokemons these trainers use, shown in columns L and R.
-![Image description](link-to-image)
+![Image description](http://therefactor.net/images/elite.jpg)
 
