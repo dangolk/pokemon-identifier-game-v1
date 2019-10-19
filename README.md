@@ -1,7 +1,7 @@
 # pokemon-alphabet-identifier
 Random alphabets on screen - match with respective pokemon names by only looking at first word
 
-Hosted at 54.153.10.235/pokemonkit
+Hosted at https:://therefactor.net
 
 Inspired by Wes Bos' Drumkit project
 
