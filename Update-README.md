@@ -2,7 +2,7 @@
 Random alphabets on screen - match with respective pokemon names by only looking at first word
 
 Hosted at https://therefactor.net
-
+![Image description](http://therefactor.net/images/elite.jpg)
 http://therefactor.net - automatic!
 http://therefactor.net/images/elite.jpg
 ![https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg]
