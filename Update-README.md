@@ -4,7 +4,8 @@ Random alphabets on screen - match with respective pokemon names by only looking
 Hosted at https://therefactor.net
 
 http://therefactor.net - automatic!
-![pokemon-identifier-game-v1/images/elite.jpg](https://github.com/tograh/testrepository/3DTest.png)
+![https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg](https://github.com/tograh/testrepository/3DTest.png)
+https://github.com/dangolk/pokemon-identifier-game-v1/blob/master/images/elite.jpg
 [GitHub](http://github.com/dangolk/pokemon-identifier-game-v1)
 1
 
