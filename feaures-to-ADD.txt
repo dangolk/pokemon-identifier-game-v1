@@ -1,0 +1,3 @@
+add sound support for mobile users.
+
+make it touch-screen enabled for mobile devices.
